@@ -1,1 +1,3 @@
 /inputs/*-real.txt
+/node_modules
+.DS_Store
