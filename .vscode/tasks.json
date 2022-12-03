@@ -6,7 +6,7 @@
         {
             "label": "Run a node script",
             "type": "shell",
-            "command": "node 02.js",
+            "command": "node 03.js",
             "problemMatcher": [],
             "group": {
                 "kind": "build",
