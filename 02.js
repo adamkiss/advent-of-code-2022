@@ -1,5 +1,5 @@
-const {readFileSync} = require('fs')
-const {ray} = require('node-ray')
+import { readFileSync } from 'fs'
+import { ray } from 'node-ray'
 
 const demo1 = readFileSync('./inputs/02-1-demo.txt', 'utf-8')
 const real1 = readFileSync('./inputs/02-1-real.txt', 'utf-8')

@@ -1,5 +1,5 @@
-const {readFileSync} = require('fs')
-const {ray} = require('node-ray')
+import { readFileSync } from 'fs'
+import { ray } from 'node-ray'
 
 // note: manually rewrite crate image into 90deg rotated array
 
